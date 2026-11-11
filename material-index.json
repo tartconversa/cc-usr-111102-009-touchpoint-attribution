@@ -1,0 +1,12 @@
+[
+  {
+    "path": "fixtures/analysis.json",
+    "sha256": "1a46f51e798517fe1e9613e0f59a22a5082e15eeab57ba27bfc8215f8bcf0715",
+    "size_bytes": 295
+  },
+  {
+    "path": "fixtures/journeys.jsonl",
+    "sha256": "4e5df450d46b72b0360197c339ad7442fd0c0ac56366803acbb6513d00e46195",
+    "size_bytes": 5101
+  }
+]

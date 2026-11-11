@@ -1,0 +1,13 @@
+{
+  "hand_journeys": [
+    "hand-a",
+    "hand-b"
+  ],
+  "train_end": "2026-10-24T00:00:00+08:00",
+  "test_end": "2026-10-26T00:00:00+08:00",
+  "minimum_channel_journeys": 2,
+  "collapse_consecutive": true,
+  "bootstrap_repeats": 200,
+  "seed": 10209,
+  "removal": "redirect_incoming_to_NULL"
+}
